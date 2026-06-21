@@ -17,13 +17,20 @@ body {
   padding: 20px 15% 50px 15%;
 }
 
+
+
 .navbar {
   display: flex;
   justify-content: space-between;
 align-items: center;
   margin-bottom: 50px;
 
-logo {
+
+}
+
+
+
+.logo {
   font-size: 24px;
   color: #f9fafb;
   font-weight: bold;
